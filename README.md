@@ -1,3 +1,3 @@
-# Exercism Code
+# Exercism - Python Track
 
-Repo for all of the work done with Exercism
+Repo for Exercism's Python track and my solutions to the questions
